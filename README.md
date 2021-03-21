@@ -10,7 +10,7 @@ The purpose of this project is to analyze UFO sighting data collected by allowin
    <td align="center"> <b> UFO Sightings for January 13th 2010 </b> </td>
  </tr> 
   <tr>  
-    <td valign="top"> <img src="/statics/images/June_statistics.png" width="250" /> </td>
+    <td valign="top"> <img src="/static/images/UFOSightings.png" width="250" /> </td>
     
   </tr>     
 </Table> 
