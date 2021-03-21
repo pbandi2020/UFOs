@@ -1,19 +1,17 @@
 # UFOs
 ## Overview of Project
-The purpose of this project is to perform weather pattern analysis in Hawaii for the month of June and Decemeber to help assess wheather an ice cream/surf shop would be a good weather condition to operate.
+The purpose of this project is to analyze UFO sighting data collected by allowing users to filter for multiple criteria and at the same time build an interactive dashboard to explore the UFO sighting.
   
-
 ## Results
-### The below shows the statistical comparison between the month of June & December 
+### The below shows webpage build to vizualize the UFO signting data
 
 <table>
  <tr>   
-   <td align="center"> <b> June Temperature is Hawaii </b> </td>
-   <td align="center"> <b> December Temperature is Hawaii </b> </td>
-  </tr> 
+   <td align="center"> <b> UFO Sightings for January 13th 2010 </b> </td>
+ </tr> 
   <tr>  
-    <td valign="top"> <img src="/Resources/June_statistics.png" width="250" /> </td>
-    <td valign="top"> <img src="/Resources/Dec_statistics.png" width="250" /> </td>
+    <td valign="top"> <img src="/statics/images/June_statistics.png" width="250" /> </td>
+    
   </tr>     
 </Table> 
 
