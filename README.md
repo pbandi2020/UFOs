@@ -1,6 +1,10 @@
 # UFOs
 ## Overview of Project
-The purpose of this project is to analyze UFO sighting data collected and allowing users to filter for multiple criteria and at the same time build an **interactive and dynamic dashboard** to explore the UFO sighting.
+The purpose of this project is to build a responsive webpage that would provide the ability,
+1. Slice and dice the data using multiple criteria. 
+2. Dynamic data load as the search criteria is entered in the input box
+3. Reponsive webpage
+4. Customized styling 
   
 ## Results
 ### The screenshot below shows the UFO Sighting results for January 13th 2010
