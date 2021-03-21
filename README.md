@@ -5,7 +5,7 @@ The purpose of this project is to analyze UFO sighting data collected by allowin
 ## Results
 ### The below shows webpage build to vizualize the UFO signting data
 
-<img src="/static/images/UFOSightings.png" width="250" /> </td>
+<img src="/static/images/UFOSightings.png" width="750" /> </td>
 
 
 ### Some takeaways from the above results
