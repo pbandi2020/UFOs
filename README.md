@@ -3,16 +3,17 @@
 The purpose of this project is to analyze UFO sighting data collected by allowing users to filter for multiple criteria and at the same time build an interactive dashboard to explore the UFO sighting.
   
 ## Results
-### The below shows webpage build to vizualize the UFO signting data
+### The screenshot below shows the UFO Sighting results for January 13th 2010
 
 <img src="/static/images/UFOSightings.png" width="750" /> </td>
 
 
-### Some takeaways from the above results
-1.  Average temperature between June and December is 75 and 71 degrees respectively, show a moderate temperature and very little fluctuation between the two periods from an average standpoint.
-2.  The maximum temperatures of 85 (June) and 83 (December) are also remarkable similar.
-3.  The minimum temperature of 56 (December) and 64 (June) show the greatest variance, and reflects a much lower temperature level in December that may not be conducive to ice cream or surfing. However, with standard deviations of 3.25 (June) and 3.74 (December) we would expect a little more variation in the december numbers.
-
+### How the webpage works and how to use the search criteria form
+1.  Refresh the browser or click on the UFO Sightings link on the nav bar to load the all the data. This will reset all the search critieria allowing full access to the complete dataset.
+2.  Next, use the serrach criteria on the left side of the webpage to narrow the result set. As you enter the criteria and hit enter the data table to the right of the search box will load data that matches the criteria. The example image above shows results for filter criteria **Date = 1/13/2010**
+3.  Following are the various filterrs that can be applied (Date, City, State, Country and Shape. 
+4.  The logic for the search is **AND**. Which mean as you apply new filter data the result set is iterrated to match both the conditions applied
+5.  Since the logic is build using the "OnChange" HTML event, the dataset is refined as you hit enter in each **INPUT** box.
 
 ## Summary
 
