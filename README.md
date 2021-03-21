@@ -1,6 +1,6 @@
 # UFOs
 ## Overview of Project
-The purpose of this project is to analyze UFO sighting data collected by allowing users to filter for multiple criteria and at the same time build an interactive dashboard to explore the UFO sighting.
+The purpose of this project is to analyze UFO sighting data collected and allowing users to filter for multiple criteria and at the same time build an **interactive and dynamic dashboard** to explore the UFO sighting.
   
 ## Results
 ### The screenshot below shows the UFO Sighting results for January 13th 2010
