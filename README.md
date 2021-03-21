@@ -5,15 +5,7 @@ The purpose of this project is to analyze UFO sighting data collected by allowin
 ## Results
 ### The below shows webpage build to vizualize the UFO signting data
 
-<table>
- <tr>   
-   <td align="center"> <b> UFO Sightings for January 13th 2010 </b> </td>
- </tr> 
-  <tr>  
-    <td valign="top"> <img src="/static/images/UFOSightings.png" width="250" /> </td>
-    
-  </tr>     
-</Table> 
+<img src="/static/images/UFOSightings.png" width="250" /> </td>
 
 
 ### Some takeaways from the above results
