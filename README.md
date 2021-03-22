@@ -1,10 +1,6 @@
 # UFOs
 ## Overview of Project
-The purpose of this project is to build a responsive webpage that would provide the ability,
-1. Slice and dice the data using multiple criteria. 
-2. Dynamic data load as the search criteria is entered in the input box
-3. Reponsive webpage
-4. Customized styling 
+The purpose of this project is to build a **Responsive, Dynamic and Interactive webpage** that will help the citizens vizualize the UFO Sighting data.
   
 ## Results
 ### The screenshot below shows the UFO Sighting results for January 13th 2010
