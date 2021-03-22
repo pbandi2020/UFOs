@@ -19,13 +19,13 @@ The purpose of this project is to build a **Responsive, Dynamic and Interactive 
 
 Using **HTML and JavaScript** we were able to build a **Interactive and Dynamic webpage** that provides a data vizualization layer. The **BootStrap** and **D3** libraries provided us with tools to build datatables and make the page responsive. We also used **CSS Style Sheets** to help cutomize the UI aspect of our webpage.
 
-###Drawbacks
-1. Since a Clear functionality is not avaiable for the search criteria the user woudl need to reload the whole page every time to clear the filters
-2. The onchange event make the search dynamic, however from a usability prespective having the ability to trigger the search even on a click of a button would help customer experience
+### Drawbacks
+1. Since a Clear functionality is not avaiable for the search criteria the user would need to reload the whole page every time to clear the filters
+2. The onchange event make the search dynamic, however from a usability prespective having the ability to trigger the search event on a click of a button would help customer experience
 3. 
-###Recommendation - The below 2 suggestion woudl help with the 2 draw back listed above:
-1. A clear event to reset the filters will avoid a reload of the whole page everytimg
-2. A Submit/Search button event will help with datatable load after all the criterias are ebtered
+### Recommendation - The below 2 suggestion woudl help with the 2 draw back listed above:
+1. A **CLEAR** button event to reset the filters will avoid a reload of the whole page everytimg
+2. A **Submit/Search** button event will help with datatable load after all the criterias are entered
 
 
 
