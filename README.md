@@ -17,6 +17,6 @@ The purpose of this project is to build a **Responsive, Dynamic and Interactive 
 
 ## Summary
 
-Using **HTML and JavaScript** we were able to build a **interactive and Dynamic webpage** that provides a data vizualization layer. The **BootStrap** and **D3** libraries provided us with tools to build datatables and make the page responsive. We also used **CSS Style Sheets** to help cutomize the UI aspect of our webpage. 
+Using **HTML and JavaScript** we were able to build a **Interactive and Dynamic webpage** that provides a data vizualization layer. The **BootStrap** and **D3** libraries provided us with tools to build datatables and make the page responsive. We also used **CSS Style Sheets** to help cutomize the UI aspect of our webpage. 
 
 
