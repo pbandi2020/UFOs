@@ -8,12 +8,12 @@ The purpose of this project is to build a **Responsive, Dynamic and Interactive 
 <img src="/static/images/UFOSightings.png" width="750" /> </td>
 
 
-### How the webpage works and how to use the search criteria form
-1.  Refresh the browser or click on the UFO Sightings link on the nav bar to load the all the data. This will reset all the search critieria allowing full access to the complete dataset.
+### How the webpage works and how to use the search criteria form:
+1.  Refresh the browser or click on the UFO Sightings link on the nav bar to load all the data. This will reset all the search criteria allowing full access to the complete dataset
 2.  Next, use the search criteria on the left side of the webpage to narrow the result set. As you enter the criteria and hit enter the data table to the right of the search box will load data that matches the criteria. The example image above shows results for filter criteria **Date = 1/13/2010**
-3.  Following are the various filterrs that can be applied (Date, City, State, Country and Shape. 
+3.  Following are the various filters that can be applied **(Date, City, State, Country and Shape)** 
 4.  The logic for the search is **AND**. Which mean as you apply new filters, the result set will be altered to match both the conditions applied
-5.  As the logic is build using the "OnChange" HTML event, the dataset is refined as you hit **Enter Key** in each **INPUT** box.
+5.  As the logic is build using the **"OnChange" HTML event**, the dataset is refined as you hit **Enter Key** in each **INPUT** box.
 
 ## Summary
 
